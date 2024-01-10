@@ -1,5 +1,5 @@
-# Rankings
-==========
+Rankings
+========
 
 Collection of personal rankings.
 

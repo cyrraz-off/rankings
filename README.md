@@ -6,7 +6,7 @@ Collection of personal rankings.
 Board games
 -----------
 1. Twilight Imperium 4th ed.
-2. Werewolf 2.0
+2. Werewolf Remastered
 3. Terraforming Mars
 4. Secret H.
 5. Hanabi 

@@ -1,7 +1,7 @@
 Rankings
 ========
 
-Collection of personal rankings.
+Collection of personal and subjective rankings.
 
 Board games
 -----------

@@ -60,12 +60,12 @@ Non-Zelda video games
 1. Pokemon Gold & Silver
 2. Elden Ring
 3. Outer Wilds
-4. Wario Land 3
+4. Hollow Knight
 5. Golden Sun 1+2
-6. Hollow Knight
-7. Inscryption
-8. Professor Layton and the Curious Village
-9. Final Fantasy Tactics A2
+6. Inscryption
+7. Professor Layton and the Curious Village
+8. Final Fantasy Tactics A2
+9. Wario Land 3
 10. Henry Hatsworth
 
 Star Wars movies

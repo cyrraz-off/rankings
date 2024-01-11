@@ -29,6 +29,14 @@ Series
 9. Fleabag
 10. Derry Girls
 
+Ancient Philosophers
+--------------------
+1. Epicurus
+2. Lucretius
+3. Marcus Aurelius
+4. Seneca
+5. Epictetus
+
 Ghibli movies
 -------------
 1. The Tale of the Princess Kaguya

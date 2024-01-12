@@ -50,6 +50,19 @@ Ghibli movies
 9. Castle in the Sky
 10. Kiki's Delivery Service
 
+Victor Hugo's poems
+-------------------
+1. Booz endormi
+2. Soleils couchants
+3. Oceano nox
+4. La conscience
+5. Ce qu'on entend sur la montagne
+6. Abîme
+7. Les grandes lois
+8. Le mendiant
+9. Le cercle des tyrans, VI. "Je marchais au hasard"
+10. Les esprits, I. "Un homme aux yeux profonds passait"
+
 The Legend of Zelda games
 -------------------------
 1. Tears of the Kingdom

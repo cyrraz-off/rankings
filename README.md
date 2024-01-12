@@ -29,7 +29,7 @@ Series
 9. Fleabag
 10. Derry Girls
 
-Ancient Philosophers
+Ancient philosophers
 --------------------
 1. Epicurus
 2. Lucretius
@@ -102,3 +102,7 @@ Star Wars movies
 9. Episode II – Attack of the Clones
 10. Episode IX – The Rise of Skywalker
 
+Ideas of future rankings
+------------------------
+1. Books
+2. Racine's plays

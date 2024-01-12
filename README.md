@@ -80,9 +80,9 @@ Non-Zelda video games
 ----------------------
 1. Pokemon Gold & Silver
 2. Elden Ring
-3. Outer Wilds
-4. Final Fantasy XII: The Zodiac Age
-5. Hollow Knight
+3. Final Fantasy XII: The Zodiac Age
+4. Hollow Knight
+5. Outer Wilds
 6. Golden Sun 1+2
 7. Inscryption
 8. Professor Layton and the Curious Village

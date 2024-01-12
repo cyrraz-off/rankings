@@ -81,13 +81,13 @@ Non-Zelda video games
 1. Pokemon Gold & Silver
 2. Elden Ring
 3. Outer Wilds
-4. Hollow Knight
-5. Golden Sun 1+2
-6. Inscryption
-7. Professor Layton and the Curious Village
-8. Final Fantasy Tactics A2
-9. Wario Land 3
-10. Henry Hatsworth
+4. Final Fantasy XII: The Zodiac Age
+5. Hollow Knight
+6. Golden Sun 1+2
+7. Inscryption
+8. Professor Layton and the Curious Village
+9. Final Fantasy Tactics A2
+10. Wario Land 3
 
 Star Wars movies
 ----------------
@@ -105,4 +105,5 @@ Star Wars movies
 Ideas of future rankings
 ------------------------
 1. Books
-2. Racine's plays
+2. Cheeses
+3. Racine's plays

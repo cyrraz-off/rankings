@@ -89,6 +89,19 @@ Non-Zelda video games
 9. Final Fantasy Tactics A2
 10. Wario Land 3
 
+Cheeses
+-------
+1. Gruyère vieux
+2. Raclette de Bagnes
+3. Comté vieux
+4. Tomme de Nendaz
+5. Tomme de Savoie
+6. Camembert de Normandie
+7. Burrata di Bufala
+8. Gorgonzola-Mascarpone
+9. Epoisses
+10. Vacherin fribourgeois
+
 Star Wars movies
 ----------------
 1. Episode IV – A New Hope
@@ -105,5 +118,4 @@ Star Wars movies
 Ideas of future rankings
 ------------------------
 1. Books
-2. Cheeses
-3. Racine's plays
+2. Racine's plays

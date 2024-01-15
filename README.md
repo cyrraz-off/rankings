@@ -119,3 +119,5 @@ Ideas of future rankings
 ------------------------
 1. Books
 2. Racine's plays
+3. Places in Japan
+4. French verses

@@ -63,6 +63,19 @@ Victor Hugo's poems
 9. Le cercle des tyrans, VI. "Je marchais au hasard"
 10. Les esprits, I. "Un homme aux yeux profonds passait"
 
+SF movies
+---------
+1. 2001: A Space Odyssey
+2. Brazil
+3. The Matrix
+4. Mad Max: Fury Road
+5. Blade Runner
+6. Alien
+7. Her
+8. Cloud Atlas
+9. 12 Monkeys
+10. Blade Runner 2049
+
 The Legend of Zelda games
 -------------------------
 1. Tears of the Kingdom

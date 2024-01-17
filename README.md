@@ -115,6 +115,19 @@ Cheeses
 9. Epoisses
 10. Vacherin fribourgeois
 
+Places in Japan
+---------------
+1. Sumida river during the Sumidagawa Hanabi Taikai (Tokyo)
+2. Tsukuba-Kasumigaura Ring-Ring Road during Sakura
+3. Kiyomizu-dera and surrounding forests (Kyoto)
+4. Fushimi Inari-taisha and surrounding forests (Kyoto)
+5. Ghibli museum (Mitaka)
+6. teamLab Planets (Tokyo)
+7. Himeji castle
+8. よこ林 (Kyoto)
+9. Kusatsu village
+10. Disneyland Tokyo
+
 Star Wars movies
 ----------------
 1. Episode IV – A New Hope
@@ -132,5 +145,4 @@ Ideas of future rankings
 ------------------------
 1. Books
 2. Racine's plays
-3. Places in Japan
-4. French verses
+3. French verses

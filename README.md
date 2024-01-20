@@ -8,9 +8,9 @@ Board games
 1. Twilight Imperium 4th ed.
 2. Werewolf Remastered
 3. Terraforming Mars
-4. Secret H.
+4. Dominion
 5. Hanabi
-6. Dominion
+6. Secret H.
 7. Evolution
 8. Rise of Tribes
 9. Wingspan

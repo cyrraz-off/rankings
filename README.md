@@ -9,7 +9,7 @@ Board games
 2. Werewolf Remastered
 3. Terraforming Mars
 4. Secret H.
-5. Hanabi 
+5. Hanabi
 6. Dominion
 7. Evolution
 8. Rise of Tribes

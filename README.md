@@ -10,11 +10,11 @@ Board games
 3. Terraforming Mars
 4. Secret H.
 5. Hanabi 
-6. Evolution
-7. Rise of Tribes
-8. Wingspan
-9. Terra Mystica
-10. Puerto Rico
+6. Dominion
+7. Evolution
+8. Rise of Tribes
+9. Wingspan
+10. Terra Mystica
 
 Series
 ------

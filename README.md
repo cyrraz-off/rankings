@@ -14,7 +14,7 @@ Board games
 7. Evolution
 8. Rise of Tribes
 9. Wingspan
-10. Terra Mystica
+10. Puerto Rico
 
 Series
 ------

@@ -76,6 +76,19 @@ SF movies
 9. 12 Monkeys
 10. Blade Runner 2049
 
+Movie endings
+-------------
+1. The Godfather Part II
+2. The Godfather
+3. 2001: A Space Odyssey
+4. Once Upon a Time in the West
+5. Amadeus
+6. Another Round
+7. Once Upon a Time in America
+8. There Will Be Blood
+9. Titanic
+10. Chinatown
+
 The Legend of Zelda games
 -------------------------
 1. Tears of the Kingdom

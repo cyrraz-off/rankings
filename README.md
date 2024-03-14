@@ -84,10 +84,10 @@ Movie endings
 4. Once Upon a Time in the West
 5. Amadeus
 6. Another Round
-7. Once Upon a Time in America
-8. There Will Be Blood
-9. Titanic
-10. Chinatown
+7. There Will Be Blood
+8. Oppenheimer
+9. Chinatown
+10. Titanic
 
 The Legend of Zelda games
 -------------------------

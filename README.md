@@ -11,22 +11,22 @@ Board games
 4. Dominion
 5. Hanabi
 6. Secret H.
-7. Evolution
-8. Rise of Tribes
+7. Game of Thrones
+8. Evolution
 9. Wingspan
 10. Puerto Rico
 
 Series
 ------
 1. Twin Peaks
-2. Station Horizon
-3. Lost
-4. Columbo
-5. Black Mirror
-6. Breaking Bad
-7. Batman: The Animated Series
-8. Better Call Saul
-9. Fleabag
+2. Lost
+3. Station Horizon
+4. Black Mirror
+5. Columbo
+6. Better Call Saul
+7. Breaking Bad
+8. Fleabag
+9. The Expanse
 10. Derry Girls
 
 Ancient philosophers
@@ -42,13 +42,13 @@ Ghibli movies
 1. The Tale of the Princess Kaguya
 2. Spirited Away
 3. The Wind Rises
-4. Porco Rosso
-5. Howl's Moving Castle
-6. Princess Mononoke
+4. Howl's Moving Castle
+5. Princess Mononoke
+6. Whisper of the Heart
 7. Only Yesterday
-8. My Neighbor Totoro
+8. Porco Rosso
 9. Castle in the Sky
-10. Kiki's Delivery Service
+10. My Neighbor Totoro
 
 Victor Hugo's poems
 -------------------
@@ -62,6 +62,20 @@ Victor Hugo's poems
 8. Le mendiant
 9. Le cercle des tyrans, VI. "Je marchais au hasard"
 10. Les esprits, I. "Un homme aux yeux profonds passait"
+
+Books
+-----
+1. Mémoires d'Hadrien, Marguerite Yourcenar
+2. Die Welt von Gestern, Stefan Zweig
+3. Cien años de soledad, Gabriel García Márquez
+4. Essais, Montaigne
+5. Τὰ εἰς ἑαυτόν, Marcus Aurelius
+6. La Légende des Siècles, Victor Hugo
+7. Madame Bovary, Gustave Flaubert
+8. Les Misérables, Victor Hugo
+9. L’Étranger, Albert Camus
+10. Das Schloss, Franz Kafka
+
 
 SF movies
 ---------
@@ -106,9 +120,9 @@ Non-Zelda video games
 ----------------------
 1. Pokemon Gold & Silver
 2. Elden Ring
-3. Final Fantasy XII: The Zodiac Age
-4. Hollow Knight
-5. Outer Wilds
+3. Hollow Knight
+4. Outer Wilds
+5. Final Fantasy XII: The Zodiac Age
 6. Golden Sun 1+2
 7. Inscryption
 8. Professor Layton and the Curious Village
@@ -131,15 +145,15 @@ Cheeses
 Places in Japan
 ---------------
 1. Sumida river during the Sumidagawa Hanabi Taikai (Tokyo)
-2. Tsukuba-Kasumigaura Ring-Ring Road during Sakura
+2. Fushimi Inari-taisha and surrounding forests (Kyoto)
 3. Kiyomizu-dera and surrounding forests (Kyoto)
-4. Fushimi Inari-taisha and surrounding forests (Kyoto)
-5. Ghibli museum (Mitaka)
-6. teamLab Planets (Tokyo)
-7. Himeji castle
+4. Ghibli museum (Mitaka)
+5. teamLab Planets (Tokyo)
+6. Himeji castle
+7. Tsukuba-Kasumigaura Ring-Ring Road during Sakura
 8. よこ林 (Kyoto)
 9. Kusatsu village
-10. Disneyland Tokyo
+10. DisneySea Tokyo
 
 Star Wars movies
 ----------------
@@ -156,11 +170,11 @@ Star Wars movies
 
 Ideas of future rankings
 ------------------------
-1. Books
-2. Movie scenes
+1. Movie scenes
 2. Movie soundtracks
 3. Racine's plays
 4. French verses
 5. Movie quotes
 6. Quotes
 7. Underrated movies
+8. Plays

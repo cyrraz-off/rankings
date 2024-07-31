@@ -63,20 +63,6 @@ Victor Hugo's poems
 9. Le cercle des tyrans, VI. "Je marchais au hasard"
 10. Les esprits, I. "Un homme aux yeux profonds passait"
 
-Books
------
-1. Mémoires d'Hadrien, Marguerite Yourcenar
-2. Die Welt von Gestern, Stefan Zweig
-3. Cien años de soledad, Gabriel García Márquez
-4. Essais, Montaigne
-5. Τὰ εἰς ἑαυτόν, Marcus Aurelius
-6. La Légende des Siècles, Victor Hugo
-7. Madame Bovary, Gustave Flaubert
-8. Les Misérables, Victor Hugo
-9. L’Étranger, Albert Camus
-10. Das Schloss, Franz Kafka
-
-
 SF movies
 ---------
 1. 2001: A Space Odyssey
@@ -141,6 +127,19 @@ Cheeses
 8. Gorgonzola-Mascarpone
 9. Epoisses
 10. Vacherin fribourgeois
+
+Books
+-----
+1. Mémoires d'Hadrien, Marguerite Yourcenar
+2. Die Welt von Gestern, Stefan Zweig
+3. Cien años de soledad, Gabriel García Márquez
+4. Essais, Montaigne
+5. Τὰ εἰς ἑαυτόν, Marcus Aurelius
+6. La Légende des Siècles, Victor Hugo
+7. Madame Bovary, Gustave Flaubert
+8. Les Misérables, Victor Hugo
+9. L’Étranger, Albert Camus
+10. Das Schloss, Franz Kafka
 
 Places in Japan
 ---------------

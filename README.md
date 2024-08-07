@@ -7,14 +7,14 @@ Board games
 -----------
 1. Twilight Imperium 4th ed.
 2. Werewolf Remastered
-3. Terraforming Mars
-4. Dominion
-5. Hanabi
-6. Secret H.
-7. Game of Thrones
-8. Evolution
-9. Wingspan
-10. Puerto Rico
+3. Dune: Imperium
+4. Terraforming Mars
+5. Dominion
+6. Hanabi
+7. Secret H.
+8. Game of Thrones
+9. Evolution
+10. Wingspan
 
 Series
 ------

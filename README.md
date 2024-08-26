@@ -89,6 +89,19 @@ Movie endings
 9. Chinatown
 10. Titanic
 
+Figures of speech
+-----------------
+1. Mise en abyme
+2. Metaphor
+3. Asyndeton
+4. Hypallage
+5. Oxymoron
+6. Litotes
+7. Enjambment
+8. Synecdoche
+9. Preterition
+10. Anaphora
+
 The Legend of Zelda games
 -------------------------
 1. Tears of the Kingdom

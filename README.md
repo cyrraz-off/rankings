@@ -154,6 +154,19 @@ Books
 9. L’Étranger, Albert Camus
 10. Das Schloss, Franz Kafka
 
+Fruits
+------
+1. Apricot (Luizet)
+2. Raspberry
+3. Grape
+4. Blackberry
+5. Cherry
+6. Blueberry
+7. Pear
+8. Banana
+9. Apple
+10. Bergamot
+
 Places in Japan
 ---------------
 1. Sumida river during the Sumidagawa Hanabi Taikai (Tokyo)

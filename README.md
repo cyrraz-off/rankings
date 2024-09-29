@@ -104,8 +104,8 @@ Figures of speech
 
 The Legend of Zelda games
 -------------------------
-1. Tears of the Kingdom
-2. Breath of the Wild
+1. Breath of the Wild
+2. Tears of the Kingdom
 3. The Wind Waker
 4. Oracle of Seasons/Ages
 5. Majora's Mask

@@ -43,8 +43,8 @@ Ghibli movies
 2. Spirited Away
 3. The Wind Rises
 4. Howl's Moving Castle
-5. Princess Mononoke
-6. Whisper of the Heart
+5. Whisper of the Heart
+6. Princess Mononoke
 7. Only Yesterday
 8. Porco Rosso
 9. Castle in the Sky

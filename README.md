@@ -206,6 +206,19 @@ Laughters (obfuscated)
 9. Structural properties of condensed matter
 10. St-Luc
 
+Life experiences (obfuscated)
+-----------------------------
+1. Ἑλλάς
+2. JDM
+3. Where the wind blows
+4. Sat
+5. Bauchau, Siena, Anouilh
+6. Fondue in Moving Tower
+7. TI4@8
+8. Paris(2001,2011)
+9. DST
+10. Ring-Ring
+
 Ideas of future rankings
 ------------------------
 1. Movie scenes

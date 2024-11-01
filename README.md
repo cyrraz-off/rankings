@@ -193,6 +193,19 @@ Star Wars movies
 9. Episode II – Attack of the Clones
 10. Episode IX – The Rise of Skywalker
 
+Laughters (obfuscated)
+----------------------
+1. Snail
+2. Ah yes agreed
+3. Movie JDM
+4. Lavey
+5. Lokum
+6. skribbl.io
+7. Fabcaro
+8. Beersaurus
+9. Structural properties of condensed matter
+10. St-Luc
+
 Ideas of future rankings
 ------------------------
 1. Movie scenes

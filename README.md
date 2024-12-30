@@ -196,14 +196,14 @@ Star Wars movies
 Laughters (obfuscated)
 ----------------------
 1. Snail
-2. Ah yes agreed
-3. Movie JDM
-4. Lavey
-5. Lokum
-6. skribbl.io
-7. Fabcaro
-8. Beersaurus
-9. Structural properties of condensed matter
+2. Updated picture
+3. Ah yes agreed
+4. Movie JDM
+5. Lavey
+6. Lokum
+7. skribbl.io
+8. Fabcaro
+9. Beersaurus
 10. St-Luc
 
 Life experiences (obfuscated)

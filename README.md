@@ -1,10 +1,9 @@
-Rankings
-========
+# Rankings
 
 Collection of personal and subjective rankings.
 
-Board games
------------
+## Board games
+
 1. Twilight Imperium 4th ed.
 2. Werewolf Remastered
 3. Dune: Imperium
@@ -16,8 +15,8 @@ Board games
 9. Evolution
 10. Wingspan
 
-Series
-------
+## Series
+
 1. Twin Peaks
 2. Lost
 3. Station Horizon
@@ -29,16 +28,16 @@ Series
 9. The Expanse
 10. Derry Girls
 
-Ancient philosophers
---------------------
+## Ancient philosophers
+
 1. Epicurus
 2. Lucretius
 3. Marcus Aurelius
 4. Seneca
 5. Epictetus
 
-Ghibli movies
--------------
+## Ghibli movies
+
 1. The Tale of the Princess Kaguya
 2. Spirited Away
 3. The Wind Rises
@@ -50,8 +49,8 @@ Ghibli movies
 9. Castle in the Sky
 10. My Neighbor Totoro
 
-Victor Hugo's poems
--------------------
+## Victor Hugo's poems
+
 1. Booz endormi
 2. Soleils couchants
 3. Oceano nox
@@ -63,8 +62,8 @@ Victor Hugo's poems
 9. Le cercle des tyrans, VI. "Je marchais au hasard"
 10. Les esprits, I. "Un homme aux yeux profonds passait"
 
-SF movies
----------
+## SF movies
+
 1. 2001: A Space Odyssey
 2. Brazil
 3. The Matrix
@@ -76,8 +75,8 @@ SF movies
 9. 12 Monkeys
 10. Blade Runner 2049
 
-Movie endings
--------------
+## Movie endings
+
 1. The Godfather Part II
 2. The Godfather
 3. 2001: A Space Odyssey
@@ -89,21 +88,21 @@ Movie endings
 9. Chinatown
 10. Titanic
 
-Figures of speech
------------------
+## Figures of speech
+
 1. Mise en abyme
 2. Metaphor
 3. Asyndeton
 4. Hypallage
-5. Oxymoron
-6. Litotes
-7. Enjambment
-8. Synecdoche
-9. Preterition
-10. Anaphora
+5. Metalepsis
+6. Oxymoron
+7. Litotes
+8. Enjambment
+9. Synecdoche
+10. Preterition
 
-The Legend of Zelda games
--------------------------
+## The Legend of Zelda games
+
 1. Breath of the Wild
 2. Tears of the Kingdom
 3. The Wind Waker
@@ -115,8 +114,8 @@ The Legend of Zelda games
 9. Twilight Princess
 10. The Minish Cap
 
-Non-Zelda video games
-----------------------
+## Non-Zelda video games
+
 1. Pokemon Gold & Silver
 2. Elden Ring
 3. The Last of Us Part II
@@ -128,8 +127,8 @@ Non-Zelda video games
 9. Final Fantasy Tactics A2
 10. Wario Land 3
 
-Cheeses
--------
+## Cheeses
+
 1. Gruyère vieux
 2. Raclette de Bagnes
 3. Comté vieux
@@ -141,8 +140,8 @@ Cheeses
 9. Epoisses
 10. Vacherin fribourgeois
 
-Books
------
+## Books
+
 1. Mémoires d'Hadrien, Marguerite Yourcenar
 2. Die Welt von Gestern, Stefan Zweig
 3. Cien años de soledad, Gabriel García Márquez
@@ -154,8 +153,8 @@ Books
 9. L’Étranger, Albert Camus
 10. Das Schloss, Franz Kafka
 
-Fruits
-------
+## Fruits
+
 1. Apricot (Luizet)
 2. Raspberry
 3. Grape
@@ -167,8 +166,8 @@ Fruits
 9. Apple
 10. Bergamot
 
-Places in Japan
----------------
+## Places in Japan
+
 1. Sumida river during the Sumidagawa Hanabi Taikai (Tokyo)
 2. Fushimi Inari-taisha and surrounding forests (Kyoto)
 3. Kiyomizu-dera and surrounding forests (Kyoto)
@@ -180,8 +179,8 @@ Places in Japan
 9. Kusatsu village
 10. DisneySea Tokyo
 
-Star Wars movies
-----------------
+## Star Wars movies
+
 1. Episode IV – A New Hope
 2. Episode VIII – The Last Jedi
 3. Episode I – The Phantom Menace
@@ -193,8 +192,8 @@ Star Wars movies
 9. Episode II – Attack of the Clones
 10. Episode IX – The Rise of Skywalker
 
-Laughters (obfuscated)
-----------------------
+## Laughters (obfuscated)
+
 1. Snail
 2. Updated picture
 3. Ah yes agreed
@@ -206,8 +205,8 @@ Laughters (obfuscated)
 9. Beersaurus
 10. St-Luc
 
-Life experiences (obfuscated)
------------------------------
+## Life experiences (obfuscated)
+
 1. Ἑλλάς
 2. JDM
 3. Where the wind blows
@@ -219,8 +218,8 @@ Life experiences (obfuscated)
 9. DST
 10. Ring-Ring
 
-Ideas of future rankings
-------------------------
+## Ideas of future rankings
+
 1. Movie scenes
 2. Movie soundtracks
 3. Racine's plays

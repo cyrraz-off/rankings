@@ -192,6 +192,19 @@ Collection of personal and subjective rankings.
 9. Episode II – Attack of the Clones
 10. Episode IX – The Rise of Skywalker
 
+## Maths/Science Youtube channels
+
+1. 3Blue1Brown
+2. Veritasium
+3. Kurzkesagt
+4. Steve Brunton
+5. Physics Girl
+6. Numberphile
+7. minutephysics
+8. Vsauce
+9. Physics Explained
+10. The Action Lab
+
 ## Laughters (obfuscated)
 
 1. Snail

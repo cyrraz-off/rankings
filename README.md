@@ -7,13 +7,13 @@ Collection of personal and subjective rankings.
 1. Twilight Imperium 4th ed.
 2. Werewolf Remastered
 3. Dune: Imperium
-4. Terraforming Mars
-5. Dominion
-6. Hanabi
-7. Secret H.
-8. Game of Thrones
-9. Evolution
-10. Wingspan
+4. Rising Sun
+5. Terraforming Mars
+6. Dominion
+7. Hanabi
+8. Secret H.
+9. Game of Thrones
+10. Evolution
 
 ## Series
 

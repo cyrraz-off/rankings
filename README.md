@@ -24,8 +24,8 @@ Collection of personal and subjective rankings.
 5. Columbo
 6. Better Call Saul
 7. Breaking Bad
-8. Fleabag
-9. The Expanse
+8. Samuel
+9. Fleabag
 10. Derry Girls
 
 ## Ancient philosophers

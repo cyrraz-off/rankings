@@ -157,10 +157,10 @@ Collection of personal and subjective rankings.
 
 1. Apricot (Luizet)
 2. Raspberry
-3. Grape
-4. Blackberry
+3. Blackberry
+4. Fig
 5. Cherry
-6. Blueberry
+6. Red currant
 7. Pear
 8. Banana
 9. Apple

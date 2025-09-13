@@ -227,7 +227,7 @@ Collection of personal and subjective rankings.
 5. Bauchau, Siena, Anouilh
 6. Fondue in Moving Tower
 7. TI4@8
-8. Paris (2001, 2011)
+8. Paris (2001, 2011, 2019)
 9. DST
 10. Ring-Ring
 

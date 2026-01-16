@@ -221,8 +221,10 @@ Collection of personal and subjective rankings.
 6. Fondue in Moving Tower
 7. TI4@8
 8. Paris (2001, 2011, 2019)
-9. DST
+9. DST@10, DLT@2
 10. Ring-Ring
+11. Silk castle
+12. Dune and swim
 
 ## Ideas of future rankings
 

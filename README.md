@@ -13,7 +13,7 @@ Collection of personal and subjective rankings.
 7. Hanabi
 8. Secret H.
 9. Game of Thrones
-10. Evolution
+10. Rise of Tribes
 
 ## Series
 

@@ -28,6 +28,19 @@ Collection of personal and subjective rankings.
 9. Fleabag
 10. Derry Girls
 
+## Teas and infusions
+
+1. Mariage Frères: Marco Polo
+2. Mariage Frères: Paris Earl Grey
+3. Thyme
+4. Lupicia: Earl Grey Grand Classic
+5. Mariage Frères: Marco Polo Sublime
+6. Kusmi Tea: Anastasia
+7. Mariage Frères: Casablanca
+8. Lapsang Souchong
+9. Gyokuro
+10. Verbena
+
 ## Ancient philosophers
 
 1. Epicurus

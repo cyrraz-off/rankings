@@ -14,6 +14,7 @@ Collection of personal and subjective rankings.
 8. Secret H.
 9. Game of Thrones
 10. Rise of Tribes
+11. The Lord of the Rings: Duel for Middle-earth
 
 ## Series
 

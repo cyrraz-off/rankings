@@ -240,6 +240,18 @@ Collection of personal and subjective rankings.
 11. Silk castle
 12. Dune and swim
 
+## Cities to live in
+1. Sion
+2. Tokyo
+3. Zürich
+4. Lausanne
+5. Hamburg
+6. Bremen
+7. Okazaki
+8. Tsukuba
+9. New York City
+10. Bristol
+
 ## Ideas of future rankings
 
 1. Movie scenes

@@ -206,6 +206,18 @@ Collection of personal and subjective rankings.
 9. Episode II – Attack of the Clones
 10. Episode IX – The Rise of Skywalker
 
+## Factions in Twilight Imperium 4th ed.
+1. Mahact Gene-Sorcerers
+2. Crimson Rebellion
+3. Embers of Muaat
+4. Vuil’Raith Cabal
+5. Winnu
+6. Ghosts of Creuss
+7. Emirates of Hacan
+8. Yssaril Tribes
+9. Argent Flight
+10. Arborec
+
 ## Maths/Science Youtube channels
 
 1. 3Blue1Brown

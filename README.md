@@ -274,3 +274,4 @@ Collection of personal and subjective rankings.
 6. Quotes
 7. Underrated movies
 8. Plays
+9. Instruments

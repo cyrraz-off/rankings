@@ -224,6 +224,19 @@ Collection of personal and subjective rankings.
 2. Veritasium
 3. Kurzkesagt
 
+## Trees
+
+1. Olive
+2. Prunus armeniaca
+3. Larch (Mélèze)
+4. Cypress
+5. Prunus subg. Cerasus (Cherry)
+6. Oak
+7. Adansonia (Baobab)
+8. Acer palmatum
+9. Birch
+10. Cryptomeria japonica
+
 ## Laughters (obfuscated)
 
 1. Snail
@@ -275,4 +288,3 @@ Collection of personal and subjective rankings.
 7. Underrated movies
 8. Plays
 9. Instruments
-10. Trees

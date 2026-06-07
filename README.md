@@ -6,7 +6,7 @@ Collection of personal and subjective rankings.
 
 1. Twilight Imperium 4th ed.
 2. Werewolf Remastered
-3. Dune: Imperium
+3. Dune: Imperium Uprising
 4. Rising Sun
 5. Terraforming Mars
 6. Dominion

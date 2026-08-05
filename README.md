@@ -12,9 +12,9 @@ Collection of personal and subjective rankings.
 6. Dominion
 7. Hanabi
 8. Secret H.
-9. Game of Thrones
-10. Rise of Tribes
-11. The Lord of the Rings: Duel for Middle-earth
+9. The Lord of the Rings: Duel for Middle-earth
+10. Game of Thrones
+11. Rise of Tribes
 
 ## Series
 

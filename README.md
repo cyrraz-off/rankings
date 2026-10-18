@@ -131,11 +131,11 @@ Collection of personal and subjective rankings.
 ## Non-Zelda video games
 
 1. Pokemon Gold & Silver
-2. Elden Ring
+2. Hollow Knight: Silksong
 3. The Last of Us Part II
-4. Hollow Knight
-5. Outer Wilds
-6. Final Fantasy XII: The Zodiac Age
+4. Elden Ring
+5. Final Fantasy XII: The Zodiac Age
+6. Outer Wilds
 7. Inscryption
 8. Professor Layton and the Curious Village
 9. Final Fantasy Tactics A2
